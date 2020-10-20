@@ -1,0 +1,182 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+  box-sizing: border-box;
+}
+
+/* Navbar container */
+.nav {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 84px;
+  z-index: 1000;
+  position: fixed !important;
+  justify-content: center;
+  box-shadow: 0 4px 10px -10px rgba(0, 0, 0, 0.6);
+}
+
+/* Color links to be black */
+a, .navbar-brandL {
+  color: black;
+}
+
+/* Content floated below nav bar */
+#root {
+  padding-top: 90px;
+}
+
+/* Top left: Zillow + picture */
+.navbar-brandL {
+  position: fixed;
+  top: 1.25em;
+  left: 0;
+}
+
+/* Zillow logo .png */
+.logo {
+  background-image: url("/imgs/zillowlogo.png");
+  background-size: 60%;
+  background-repeat: no-repeat;
+  margin-left: 15px;
+  padding: 1.5em;
+  padding-top: 15px;
+  margin-right: -9px;
+}
+
+/* All of the nav links */
+.nav-links {
+  margin-right: 20px;
+  left: 0;
+}
+
+/* A single nav item */
+.nav-link {
+  float: right;
+  padding-top: 1rem;
+  padding-right: 1rem;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 15px;
+  color: black;
+}
+
+/* The word 'Zillow' */
+.zillow {
+  font-size: 40px;
+  color: rgb(0, 106, 255);
+  font-weight: 700;
+}
+
+.header-section {
+  padding: 1rem;
+  font-size: 35px;
+  margin-left: .5rem;
+}
+
+.date {
+  color: rgb(0, 106, 255);
+  font-weight: 900;
+  font-size: 30px;
+  padding-top: 5px;
+  margin-left: -10px;
+}
+
+
+.card {
+  border-bottom: solid 5px rgb(0, 106, 255) !important;
+  border-radius: 0% !important;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  margin-bottom: 1em;
+  border-radius: 0em;
+  box-shadow: 0 4px 10px -10px rgba(0, 0, 0, 0.6);
+  padding: 1rem;
+  margin-left: 2rem;
+}
+
+.header {
+  border-top: none;
+  border-bottom: solid 1.5px lightgray;
+  border-left: none;
+  border-right: none;
+}
+
+.card-header {
+  color: rgb(0, 106, 255);
+  background-color: white !important;
+  font-size: 15px;
+  font-weight: 600;
+  margin-top: -30px;
+}
+
+.stat {
+  margin-top: 20px;
+  font-size: 35px;
+  font-weight: 900;
+}
+
+.stakeholder-stat {
+  margin-top: 20px;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.objective-stat {
+  margin-top: 20px;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.bold {
+  font-weight: 900;
+}
+
+/* Push trio of cards back */
+.trio {
+  margin-left: -30px;
+}
+
+.activeLink {
+  color: rgb(0, 106, 255);
+}
+
+.caption {
+  color: lightslategray;
+}
+
+.in-card {
+  padding-top: 1rem;
+  font-size: 10px;
+}
+
+.App {
+  padding: 1em;
+}
+
+.graph-ul > li {
+  display: block;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+@media (max-width: 768px) {
+  .graph-ul > li {
+    text-align: center;
+    display: inline;
+    width: 100%;
+  }
+  .graph-ul {
+    display: flex;
+  }
+
+  .navbar-brandL {
+    display: none;
+  }
+}
