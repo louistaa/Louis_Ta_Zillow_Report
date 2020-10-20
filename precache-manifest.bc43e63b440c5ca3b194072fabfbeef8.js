@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ad878c0d87c7db45258b3fafcf7f4b5",
+    "revision": "527566877caa98a3b56cc056160b9241",
     "url": "/Louis_Ta_Zillow_Report/index.html"
   },
   {
-    "revision": "9f8c54798ef028686a85",
-    "url": "/Louis_Ta_Zillow_Report/static/css/2.ad510f05.chunk.css"
+    "revision": "5832a901e4d03cb81866",
+    "url": "/Louis_Ta_Zillow_Report/static/css/2.34af96b8.chunk.css"
   },
   {
-    "revision": "483c5537f0b7c740460e",
+    "revision": "c1b39e0d2d124ff49305",
     "url": "/Louis_Ta_Zillow_Report/static/css/main.08817f44.chunk.css"
   },
   {
-    "revision": "9f8c54798ef028686a85",
+    "revision": "5832a901e4d03cb81866",
     "url": "/Louis_Ta_Zillow_Report/static/js/2.7ed22477.chunk.js"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Louis_Ta_Zillow_Report/static/js/2.7ed22477.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "483c5537f0b7c740460e",
-    "url": "/Louis_Ta_Zillow_Report/static/js/main.650fe233.chunk.js"
+    "revision": "c1b39e0d2d124ff49305",
+    "url": "/Louis_Ta_Zillow_Report/static/js/main.93373700.chunk.js"
   },
   {
     "revision": "0a599e079e9b5ca2ab4e",
