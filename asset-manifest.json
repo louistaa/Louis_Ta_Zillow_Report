@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Louis_Ta_Zillow_Report/static/css/main.08817f44.chunk.css",
+    "main.js": "/Louis_Ta_Zillow_Report/static/js/main.650fe233.chunk.js",
+    "main.js.map": "/Louis_Ta_Zillow_Report/static/js/main.650fe233.chunk.js.map",
+    "runtime-main.js": "/Louis_Ta_Zillow_Report/static/js/runtime-main.dc1d7f0f.js",
+    "runtime-main.js.map": "/Louis_Ta_Zillow_Report/static/js/runtime-main.dc1d7f0f.js.map",
+    "static/css/2.ad510f05.chunk.css": "/Louis_Ta_Zillow_Report/static/css/2.ad510f05.chunk.css",
+    "static/js/2.7ed22477.chunk.js": "/Louis_Ta_Zillow_Report/static/js/2.7ed22477.chunk.js",
+    "static/js/2.7ed22477.chunk.js.map": "/Louis_Ta_Zillow_Report/static/js/2.7ed22477.chunk.js.map",
+    "index.html": "/Louis_Ta_Zillow_Report/index.html",
+    "precache-manifest.f71ac9ab55f00a4315548a957196787b.js": "/Louis_Ta_Zillow_Report/precache-manifest.f71ac9ab55f00a4315548a957196787b.js",
+    "service-worker.js": "/Louis_Ta_Zillow_Report/service-worker.js",
+    "static/css/2.ad510f05.chunk.css.map": "/Louis_Ta_Zillow_Report/static/css/2.ad510f05.chunk.css.map",
+    "static/css/main.08817f44.chunk.css.map": "/Louis_Ta_Zillow_Report/static/css/main.08817f44.chunk.css.map",
+    "static/js/2.7ed22477.chunk.js.LICENSE.txt": "/Louis_Ta_Zillow_Report/static/js/2.7ed22477.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc1d7f0f.js",
+    "static/css/2.ad510f05.chunk.css",
+    "static/js/2.7ed22477.chunk.js",
+    "static/css/main.08817f44.chunk.css",
+    "static/js/main.650fe233.chunk.js"
+  ]
+}
